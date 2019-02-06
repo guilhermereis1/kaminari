@@ -561,6 +561,8 @@ You can find a list of supported test tasks by running `rake -T`. You may also f
 ```
 
 
-## Copyright
+Guilherme Reis
 
-Copyright (c) 2011- Akira Matsuda. See MIT-LICENSE for further details.
+* https://www.worldcode.com.br
+
+![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
